@@ -1,6 +1,6 @@
 # Qint.project
 Đồ án số nguyên lớn
-
+```
 1. Số nguyên lớn
   Thiết kế kiểu dữ liệu QInt có độ lớn 16 byte với các hàm sau:
       a. Hàm Nhập: void ScanQInt(QInt &x)
@@ -21,3 +21,4 @@ gấp 4 lần) độ lớn 128 bit có cấu trúc biểu diễn như sau:
             b. Hàm xuất: void PrintQfloat( Qfloat x)
             c. Hàm chuyển đổi số Qfloat nhị phân sang thập phân: Qfloat BinToDec(bool *bit)
             d. Hàm chuyển đổi số Qfloat thập phân sang nhị phân bool *DecToBin(Qfloat x)
+ ```
